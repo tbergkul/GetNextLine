@@ -25,8 +25,8 @@ int	main(int ac, char **av)
 		}
 		x++;
 	}
-	y = 1;
+	/*y = 1;
 	while (y)
-		y = 1;
+		y = 1;*/
 	return (0);
 }
